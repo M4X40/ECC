@@ -1,5 +1,5 @@
 # ECC
-MC:BE Ender-Chest and Inventory clear project, Made by M4X4#6253
+MC:BE Ender-Chest and Inventory clear project, Made by M4X4#6253 on Discord
 # How To Use Ender-Chest Clear
 1. Download the files and move them to your minecraft/world folder (tutorial coming soon)
 2. Add them to your world or realm in-game and join.
